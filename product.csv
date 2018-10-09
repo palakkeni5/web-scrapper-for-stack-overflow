@@ -1,0 +1,175 @@
+SR NO,Question Title,Views,Votes
+1,Instagram auth (not login) via Auth0 on React Native?,81,3
+2,iOS crash in testFlight on open,128,5
+3,How to hide dashes on right sidebar in VS Code?,136,2
+4,JobScheduler onStartJob gets delayed once application gets killed,88,1
+5,Python flask saml throwing saml2.sigver.SigverError Error Message,111,5
+6,why jquery position() method does not have a setter version,139,2
+7,Change host dynamically with SuperAgent,79,2
+8,Responsive text-align based on position,383,19
+9,"sendfile() failed (32: Broken pipe) while sending request to upstream, request: ""POST",95,3
+10,How to fix geojson to satisfy the needs of a mongodb 2dsphere index,69,3
+11,How do I set the the “type” of a React Fiber?,130,6
+12,"In iOS, how can I distinguish a Haptic Touch from a long press?",83,3
+13,Upload SSH public key to bitbucket cloud using curl/REST and token,48,2
+14,Unable to determine possible causes of EXC_BAD_ACCESS (which occurs during app startup),361,6
+15,CMake - how to block executing installation scripts during packaging?,55,0
+16,FileOutputStream max_allowed_dequeued_buffers 3,69,2
+17,Android EditText click navigation wrong,156,4
+18,“500 Error: Cannot exchange code for grant in bearer-only mode” after successful browser login in Keycloak,35,0
+19,ItemTouchHelper onChildDraw() in API 28,86,3
+20,AWS SNS messages to Azure Service Bus,33,2
+21,Kotlin LocalBroadcastManager not working after call to display values on UI,60,0
+22,How to pass parameters via NSUserUnixTask and then access via Script?,128,4
+23,Detect when async.queue finished,86,3
+24,Configure Spring Security 5 Oauth 2 to use access_token uri parameter,71,0
+25,Facebook Audience Network related questions,39,-1
+26,How to debug an Opsworks/Chef 11.10.4 cookbook locally on Linux (Debian9) using Centos Vagrant guest (Amazon Linux like),73,1
+27,Pinning a process to any CPU respecting affinity,61,1
+28,Why console.log gets executed before DOM model being generated?,146,3
+29,How would I pipe with a timeout that resets with each incoming?,107,5
+30,How to start intermediate ca using docker-compose?,97,4
+31,How can I colour my sketch using pen tool within the limited edge boundaries using sobel edge detection/canny edge detection in ios swift?,65,0
+32,AWS EB Deployment error: AppDeployEnactHook/03start-task.sh: Activity failed,39,1
+33,Azure App Service load balancing settings,87,0
+34,control momentum scrolling in chromium,33,0
+35,Caret range and package-lock.json: how to get latest non-breaking versions with them?,564,4
+36,Using ICommand in Windows Workflow Custom Activities,53,2
+37,MySQL has gone away: Connection_errors_peer_address with high numbers,111,8
+38,Achieve Fault Tolerance with Consul Cluster,31,1
+39,accountsd want to use the “login” keychain,63,0
+40,Creating native plugins to implement missing functions of the official Unity Facebook SDK,35,2
+41,monitor the amount of requests openstack4j does,28,2
+42,Javascript Adds Same Class To Divs Without Calculating For Each Div,134,-2
+43,Nginx upstream retry based on response,35,0
+44,Check loading time in WebDriver test during execution,114,2
+45,Screenshot secure desktop,244,6
+46,Spring secure endpoint with only client credentials (Basic),68,0
+47,Adding extra padding to TextSpan background in RichText widget,86,0
+48,Android Studio adds both @androidx.annotation and @android.support.annotation.Nullable problem,144,0
+49,How to refresh OAuth2 token with Spring Security 5 OAuth2 client and RestTemplate,74,0
+50,NSWindow disappears after deminiaturise,41,-1
+51,NDB transaction CannotAcquireLockException Lock wait timeout exceeded,43,0
+52,Inserting nested entities with autoincrement using SQL Server,225,4
+53,Update UICollectionView header height based on headers UITextview content,62,2
+54,Change alpha of UIView inside UIPanGestureRecognizer change state,78,-1
+55,Spy on a method passed into a mocked node module,97,1
+56,How to cross-compile DLL with exported functions,95,5
+57,WordPress CSRF Exploit Draft Status,197,3
+58,Large file downloads via ajax call give “Network Error” in Chrome browser,97,2
+59,CSS - table data not going under fixed table header - Overflow-X,175,6
+60,Does Xcode's Debug Navigator work different from Instruments allocations?,36,0
+61,"With a Cordova Android Project, getting error - cannot find target 'android-26'",64,2
+62,MongoDB read preference - nearest vs tag set,53,1
+63,CORS Header if HTML file gets loaded via file:///foo.html?,73,-9
+64,User Entity is not working in Alpha Release,87,3
+65,Unable to resolve class grails.plugin.multitenant.core.util.TenantUtils - Grails 2.3.11,46,0
+66,Support both encrypted and non encrypted configuration with aumbry,47,4
+67,why can't docker find my own package when deploying via serverless?,67,2
+68,java.lang.VerifyError on Android Studio 3.2 Upgrade,64,1
+69,Obj-C - TIC Read Status in Xcode console?,105,2
+70,QUnit stubbing out methods on a dependency breaks tests against that dependency,45,0
+71,pass environment variables during babel build phase for importing different files,72,6
+72,"I changed the phpmyadmin mysql port number, and now I can't log in",68,0
+73,React Native pseudo leaking memory after remove elements from screen (ios),86,6
+74,How can I kick off a container instance using the Azure api?,104,8
+75,SharpDx: Setting character width,168,1
+76,NSURLSession - download and do *not* decompress gzip?,307,5
+77,Hierarchical queries with Mongo using $graphLookup,201,9
+78,Bluez Profile Registration,55,1
+79,React native Touch events are passing through absolute view,58,0
+80,Jasmine with helpers,60,0
+81,BlueZ AutoReconnect as device to PC,30,0
+82,Getting xml from ckeditor 5,40,0
+83,.htaccess in /var/www/html directory not being read,31,0
+84,Create function that require other repeatbale logic as pre-requiste (clean code),193,4
+85,How to make both up/down arrow in select input field in CSS?,251,7
+86,"In SVC from Sklearn, why is the training time not strictly linear to maximum iteration when label size is big?",155,7
+87,react native (expo) load markdown files,52,2
+88,Synchronizing two MDC drawers,29,2
+89,How to defer stream read invocation,158,9
+90,Limit chrome headless CPU and memory usage,466,5
+91,Network connection settings on Android TV emulator,28,0
+92,PHP/IIS - Sessions_save_path - Session Data created but an error occure and installation can not be done,74,4
+93,How to fix bars in Chart.js with long labels,84,4
+94,Audio Streaming and getting the Amplitude to draw Waveform same time,48,1
+95,Sublime doesn't syntax highlight React functions?,62,4
+96,XJC does not generate enum inside xs:union,508,6
+97,Android bind TCP shell - connection refused,100,1
+98,How to record internal audio on Android devices or record MediaPlayer Audio Stream?,40,0
+99,A working how-to for data extraction of non-root named volume permissions working with linux and win,73,5
+100,Get playback milliseconds,72,0
+101,saving the state of my recyclerviews and cardviews,100,1
+102,Sending a Diameter message multiple times using seagull,25,0
+103,Tidyverse: filtering n largest groups in grouped dataframe,216,5
+104,How to get npm to favor local linked dependency over its published install,38,1
+105,Gulp build task failing inside docker,83,1
+106,User Interface for filtering objects in Python,106,1
+107,Forward HttpServletRequest to a different server,85,25
+108,Creating matrices using model.matrix,72,0
+109,Nested v-for loops and incorrect data placement,50,0
+110,"Mongodb: $geoNear vs $nearSphere on huge, non-sharded collection: performance?",91,0
+111,Support Library Version 28.0.0 TabLayout bug,106,2
+112,How to get notified when WiFi Router color turns red from green in Swift?,133,-2
+113,Can't spot the bug in my rotate matrix code,56,0
+114,Rare effect when toggling BaseLayer in leaflet with react-leaflet,44,0
+115,android test web service in junit and mockito without instrumentation test,87,0
+116,"Why Android Studio 3.0.1 has no drawable(ldpi,mdpi,hdpi,xdpi,xxdpi,xxxdpi)",59,0
+117,problem with code signing and profiling the app in the instrument,69,0
+118,Change a pop-up window's title using a Tampermonkey script?,179,1
+119,Node 6: node-gyp rebuild for hiredis fails on macOS,68,2
+120,Reacting to activity lifecycle in ViewModel,442,0
+121,Why does swift provide both a CGRect initializer and a CGRectMake function?,112,6
+122,How do I enable the “Upload files to Remote Host” feature in the Before launch section of a PyCharm Run/Debug Configuration?,47,11
+123,wordpress stciky post on archieve page with pagination,81,0
+124,mocha sidebar is not showing tests,60,0
+125,couldnt able to make Autofac nested scopes work (nested multiple Unit of works should have a new dbcontext ),44,2
+126,Rails Activestorage + DirectUpload javascript progress bar not showing when using “remote:true”,77,3
+127,multiprocessing / psycopg2 TypeError: can't pickle _thread.RLock objects,55,2
+128,Imagick max resource differs in php script from php commandline,59,1
+129,Multiple dropzone in one form,270,2
+130,UIView bounds.applying but with rotation,72,-1
+131,"Chinese character show on input method's ui,php interactive shell in my remote vps can't accept it",43,0
+132,Google Maps API Geocode not returning results on passing postal code as a value to address param,787,0
+133,Do I ever need explicit allowSyntheticDefaultImports if esModuleInterop is true configuring TypeScript transpilation?,39,0
+134,How can I disable the mouse wheel for a TextArea without disabling the entire control?,68,0
+135,Best way to XSS protect jsonify output,84,-2
+136,Curl through an intermediate server,20,0
+137,JBPM: Add MySQL connector dependency to kie workbench [ver 6.2],461,4
+138,How to reduce babel-polyfill size (150 KB minified)?,332,4
+139,android.view.AbsSavedState$1 cannot be cast to android.widget.CompoundButton$SavedState,33,0
+140,How to detect multiple objects with OpenCV in C++?,315,9
+141,Global Dynamic Supervisor in a cluster,81,5
+142,Extracting Long text Data from SAP into Excel,17,0
+143,How to return to pipeline root after branch executing?,71,1
+144,Correct Content-Type header for NMEA data?,30,1
+145,Error while using outputOptions in R shiny,49,1
+146,iOS seems to be displaying a high bounce rate in Google Analytics,295,1
+147,Problem implementing Attentive Pooling Network for Question Answering,15,0
+148,Cmake generator expression command,46,1
+149,How should I use Mocking and Fakes under .NET Core 1.1 or higher?,124,13
+150,Reading direct access binary file format in Python,13,1
+151,Automate initialization of SAP B1 “Analytics Services” for tenant,119,0
+152,Message Security with Mutual Certificates for Android & iOS,207,3
+153,How to listen in on DOM changes that you make with chrome developer tool,48,1
+154,Why does the AzureRmWebAppDeploymen ask for my subscription and then try and use it as a service connection?,51,0
+155,Ffmpeg converts video of double size of original video with second part without audio,71,0
+156,HTTPS Request in Kivy,51,1
+157,How to register callback function on Android NDK using OpenSL ES,62,2
+158,"Rotate, skew, scale and resize mask together with object",32,0
+159,Basic create component test failing with MoJs,115,2
+160,solvePNP vs recoverPose by rotation composition: why translations are not same?,82,2
+161,Sending message to client with Web Sockets,45,0
+162,Safari Browser z-index or Transform CSS Property Issue - Elements Not Visible / Backgrounded,470,0
+163,What is the swift underscore's official name?,76,15
+164,Possible to install Anaconda without **any** default environment?,39,1
+165,KryoException: Unable to find class with spark structured streaming,33,1
+166,iOS: Creating permanent speech balloons for annotations using MapBox,62,-1
+167,Creating buttons for a popup(Speech Bubble) in Mapbox using Swift,284,1
+168,Timeout error cloning Git repository using LibGit2Sharp,30,1
+169,How do I deploy to an Azure Web App on Linux using Azure DevOps?,44,-1
+170,react native splash page logged in user redirect with redux data,48,1
+171,Swift: MaterialComponents TextFields Unexpected Placeholder Behavior when clicking fast,106,3
+172,Flatten vendored transitive dependencies of primary dependency,33,2
+173,Hyperledger Fabric: Private Data and World State,111,1
+174,Allocate scatter plot into specific bins,20,1
